@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  storeservice.api.author:
+    image: ${DOCKER_REGISTRY-}storeserviceapiauthor
+    build:
+      context: .
+      dockerfile: StoreService.Api.Author/Dockerfile

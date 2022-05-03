@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "hetBrfTFOGWDUxRBKcaHbLvCN32igqG+4G4fmaythqU=",
+  "Source": "StoreService.Api.Author",
+  "BasePath": "_content/StoreService.Api.Author",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
