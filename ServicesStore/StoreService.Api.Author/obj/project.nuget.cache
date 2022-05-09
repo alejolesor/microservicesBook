@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EzM0f1H7jCp/oyCeG82+b6uBG4sab4SoZScqdZw3uMkwTVjPyYNsIRyXQxzKb1s0w2WiPD2rBd57OKkQ/rnuUQ==",
+  "dgSpecHash": "X7AgFvgELb85DHRMEXoqvSWGCf9+PUpbA/F8eLYkJ1nIeCcoA4UkM9lX6rz4ICpO9ZQE4wK858DgIkJjj+YXiw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\acastiblanco\\source\\repos\\ServicesStore\\StoreService.Api.Author\\StoreService.Api.Author.csproj",
+  "projectFilePath": "C:\\Users\\acastiblanco\\source\\repos\\microservicesBook\\ServicesStore\\StoreService.Api.Author\\StoreService.Api.Author.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\acastiblanco\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\acastiblanco\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

@@ -1337,11 +1337,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\acastiblanco\\source\\repos\\ServicesStore\\StoreService.Api.Author\\StoreService.Api.Author.csproj",
+      "projectUniqueName": "C:\\Users\\acastiblanco\\source\\repos\\microservicesBook\\ServicesStore\\StoreService.Api.Author\\StoreService.Api.Author.csproj",
       "projectName": "StoreService.Api.Author",
-      "projectPath": "C:\\Users\\acastiblanco\\source\\repos\\ServicesStore\\StoreService.Api.Author\\StoreService.Api.Author.csproj",
+      "projectPath": "C:\\Users\\acastiblanco\\source\\repos\\microservicesBook\\ServicesStore\\StoreService.Api.Author\\StoreService.Api.Author.csproj",
       "packagesPath": "C:\\Users\\acastiblanco\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\acastiblanco\\source\\repos\\ServicesStore\\StoreService.Api.Author\\obj\\",
+      "outputPath": "C:\\Users\\acastiblanco\\source\\repos\\microservicesBook\\ServicesStore\\StoreService.Api.Author\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\acastiblanco\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
-name: dockercompose14929818163726988411
+name: dockercompose4592408624477328932
 services:
   storeservice.api.author:
     build:
-      context: C:\Users\acastiblanco\source\repos\ServicesStore
+      context: C:\Users\acastiblanco\source\repos\microservicesBook\ServicesStore
       dockerfile: StoreService.Api.Author/Dockerfile
     environment:
       ASPNETCORE_ENVIRONMENT: Development
@@ -15,4 +15,4 @@ services:
       protocol: tcp
 networks:
   default:
-    name: dockercompose14929818163726988411_default
+    name: dockercompose4592408624477328932_default
